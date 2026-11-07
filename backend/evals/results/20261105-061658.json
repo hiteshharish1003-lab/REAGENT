@@ -1,0 +1,18 @@
+[
+  {
+    "topic": "Electric vehicle adoption in India",
+    "mode": "multi",
+    "run_id": "2c2f42b523",
+    "sources": 16,
+    "claims_written": 12,
+    "faith_before": 0.917,
+    "faith_after": 1.0,
+    "kept_ratio": 0.917,
+    "rewritten": 0,
+    "removed": 1,
+    "conflicts_found": 0,
+    "seconds": 88.1,
+    "calls": 5,
+    "tokens": 12751
+  }
+]
